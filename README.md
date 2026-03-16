@@ -4,7 +4,6 @@ Hey, I'm **Jordon Quinn** (he/him) — a Cognitive Science major at UConn and D1
 
 - 🧠 Interested in the intersection of **cognition, data, and code**
 - 🏃 Competing at the D1 level in track & field at **UConn**
-- 🌦️ Currently building a **weather alert automation** in Python
 - ⚔️ Sharpening my skills daily on **CodeWars**
 - 👚 Big into fashion and personal style
 
